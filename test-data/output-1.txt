@@ -1,0 +1,3 @@
+# Első tárolóból tüzel 
+SUCCESS #GT4500
+SUCCESS #TORPEDO

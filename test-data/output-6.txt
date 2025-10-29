@@ -1,0 +1,3 @@
+# Mindkettőből tüzel
+SUCCESS #GT4500
+SUCCESS #TORPEDO
